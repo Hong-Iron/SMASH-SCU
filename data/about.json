@@ -1,0 +1,34 @@
+{
+ "region": "서울 은평구",
+ "nameEn": "Seoul Christian University",
+ "added": "2026-11-01T02:27",
+ "rank": 318,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "MJC",
+   "campus": "명지전문대학",
+   "km": 2.2
+  },
+  {
+   "code": "MJU",
+   "campus": "명지대학교 인문캠퍼스",
+   "km": 2.5
+  },
+  {
+   "code": "SWCN",
+   "campus": "서울여자간호대학교",
+   "km": 3.1
+  },
+  {
+   "code": "SMU",
+   "campus": "상명대학교 서울캠퍼스",
+   "km": 3.8
+  },
+  {
+   "code": "KAU",
+   "campus": "한국항공대학교",
+   "km": 4.1
+  }
+ ]
+}
